@@ -3,6 +3,11 @@
 
 - 🌱 I’m currently learning **Fullstack Dvelopment**
 
+<h4 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jana-n-9a3b2925a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunpandian-rk7" height="20" width="30" /></a><a href="https://www.hackerrank.com/Myjana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arunpandian7" height="20" width="30" /></a>
+</p>
+
 
 
 
