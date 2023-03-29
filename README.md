@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jana</h1>
 <h3 align="center">B.E Computer Science and Engineering Student</h3>
-
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 - 🌱 I’m currently learning **Fullstack Dvelopment**
 
 - 📫 How to reach me **njana8582gmail.com**
