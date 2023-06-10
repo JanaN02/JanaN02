@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jana</h1>
 <h3 align="center">B.E Computer Science and Engineering Student</h3>
 
-- 🌱 I’m currently learning **Fullstack Dvelopment**
+-  **Aspiring Fullstack Development**
 
 <h4 align="center">Connect with me</h3>
 <p align="center">
